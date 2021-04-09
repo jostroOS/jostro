@@ -1,5 +1,7 @@
 # jostro
 
+[![Github All Releases](https://img.shields.io/github/downloads/jostroOS/jostro/total.svg?style=for-the-badge&logo=raspberry-pi&color=760589)]()
+
 ## What is jostro?
 Jostro is meant to be a lighter alternative to TwisterOS Lite, built off Raspberry Pi OS Lite arm64, icewm, a ultra light window manager and pcmanfm for the desktop icons + background.
 
