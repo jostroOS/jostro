@@ -3,11 +3,11 @@
 ## What is jostro?
 Jostro is meant to be a lighter alternative to TwisterOS Lite, built off Raspberry Pi OS Lite arm64, icewm, a ultra light window manager and pcmanfm for the desktop icons + background.
 
-It's short for "jojo distro", and it's name pays homage to the maker JoJo Autoboy on Discord.
+It's short for "jojo distro", and it's name pays homage to the maker "JoJo Autoboy" on Discord.
 
 ## Features
-- Wine and Box86 pre-configured and installed
-- pi-apps and piKiss included for convenience
+- [Wine](https://www.winehq.org/) and [Box86](https://github.com/ptitSeb/box86) pre-configured and installed for running x86 apps
+- [pi-apps](https://github.com/Botspot/pi-apps) and [piKiss](https://github.com/jmcerrejon/PiKISS) included for convenience
 - Space Cadet Pinball preinstalled because why not
 
 ## About
