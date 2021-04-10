@@ -15,3 +15,5 @@ It's short for "jojo distro", and it's name pays homage to the maker "JoJo Autob
 ## About
 JoJo Autoboy#8463 > Creator and main dev
 RPiNews#0001 Github manager and tester
+
+Fengzi
