@@ -13,9 +13,9 @@ It's short for "JoJo Distro", and it's name pays homage to the maker "JoJo Autob
 - Space Cadet Pinball preinstalled because why not
 
 ## To-do
-- [] Fix broken packages
-- [] Themes
-- [] Website (almost done)
+&#9746; Fix broken packages  
+&#9746; Themes  
+&#9746; Website (almost done)  
 
 ## About
 - JoJo Autoboy#8463 > Creator and main dev
