@@ -12,6 +12,11 @@ It's short for "JoJo Distro", and it's name pays homage to the maker "JoJo Autob
 - [pi-apps](https://github.com/Botspot/pi-apps) and [piKiss](https://github.com/jmcerrejon/PiKISS) included for convenience
 - Space Cadet Pinball preinstalled because why not
 
+## To-do
+- [] Fix broken packages
+- [] Themes
+- [] Website (almost done)
+
 ## About
 - JoJo Autoboy#8463 > Creator and main dev
 - RPiNews#0001 > Github manager and tester
