@@ -1,5 +1,7 @@
 # jostro
 
+### Warning: Before you download, please note that this build has a broken combination of 32 and 64 bit packages. Please use at your own risk until it is fixed (hopefully) in Jostro OS v2.0
+
 [![Github All Releases](https://img.shields.io/github/downloads/jostroOS/jostro/total.svg?style=for-the-badge&logo=raspberry-pi&color=760589)]()
 
 ## What is jostro?
