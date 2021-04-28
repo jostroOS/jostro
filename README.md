@@ -1,11 +1,11 @@
-# jostro
+# Jostro OS
 
 ### Warning: Before you download, please note that this build has a broken combination of 32 and 64 bit packages. Please use at your own risk until it is fixed (hopefully) in Jostro OS v2.0
 
 [![Github All Releases](https://img.shields.io/github/downloads/jostroOS/jostro/total.svg?style=for-the-badge&logo=raspberry-pi&color=ef0a6a)]()
 
 ## What is jostro?
-Jostro is meant to be a lighter alternative to TwisterOS Lite, built off Raspberry Pi OS Lite arm64, icewm, a ultra light window manager and pcmanfm for the desktop icons + background.
+Jostro is meant to be a lighter alternative to Raspberry Pi OS, built off Raspberry Pi OS Lite arm64, icewm, a ultra light window manager and pcmanfm for the desktop icons + background.
 
 It's short for "JoJo Distro", and it's name pays homage to the maker "JoJo Autoboy" on Discord.
 
@@ -23,4 +23,5 @@ It's short for "JoJo Distro", and it's name pays homage to the maker "JoJo Autob
 - RPiNews#0001 > Github manager and tester
 - 疯子鸭#5218 > Logo / artwork designer, Website developer
 
-Check out the Discord server: https://discord.gg/jr469efBZM
+Check out our website: https://jostroOS.ml/
+Discord server: https://discord.gg/jr469efBZM
