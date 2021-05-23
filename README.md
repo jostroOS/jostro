@@ -1,6 +1,6 @@
 # Jostro OS
 
-### Warning: Before you download, please note that this build has a broken combination of 32 and 64 bit packages. Please use at your own risk until it is fixed (hopefully) in Jostro OS v2.0
+### :warning: Before you download, please note that this build has a broken combination of 32 and 64 bit packages. Please use at your own risk until it is fixed (hopefully) in Jostro OS v2.0
 
 [![Github All Releases](https://img.shields.io/github/downloads/jostroOS/jostro/total.svg?style=for-the-badge&logo=raspberry-pi&color=ef0a6a)]()
 
@@ -15,8 +15,7 @@ It's short for "JoJo Distro", and it's name pays homage to the maker "JoJo Autob
 - Space Cadet Pinball preinstalled because why not
 
 ## To-do
-&#9746; Fix broken packages  
-&#9746; Themes 
+https://github.com/orgs/jostroOS/projects/1
 
 ## About
 - JoJo Autoboy#8463 > Creator and main dev
