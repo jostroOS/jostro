@@ -18,7 +18,7 @@ It's short for "JoJo Distro", and it's name pays homage to the maker "JoJo Autob
 https://github.com/orgs/jostroOS/projects/1
 
 ## About
-- JoJo Autoboy#8463 -> Creator and main dev
+- JoJo Autoboy#1931 -> Creator and main dev
 - RPiNews#0001 -> Github manager and tester
 - 疯子鸭#5218 -> Logo / artwork designer, Website developer
 
