@@ -22,5 +22,5 @@ https://github.com/orgs/jostroOS/projects/1
 - RPiNews#0001 -> Github manager and tester
 - 疯子鸭#5218 -> Logo / artwork designer, Website developer
 
-Check out our website: https://jostroOS.ml/
+Check out our website: https://jostroos.github.io/website/
 Discord server: https://discord.gg/jr469efBZM
