@@ -4,6 +4,8 @@
 
 [![Github All Releases](https://img.shields.io/github/downloads/jostroOS/jostro/total.svg?style=for-the-badge&logo=raspberry-pi&color=ef0a6a)]()
 
+### HELP WANTED: Dev with some knowledge of Debian packages and can potentially do testing.
+
 ## What is jostro?
 Jostro is meant to be a lighter alternative to Raspberry Pi OS, built off Raspberry Pi OS Lite arm64, icewm, a ultra light window manager and pcmanfm for the desktop icons + background.
 
